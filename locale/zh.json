@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "连接",
+    "description": "SSH 服务器连接，以及同账号 DeepSeek Harness 设备间互控：配对另一台机器并打开其完整界面，或允许已配对设备控制此电脑。"
+  }
+}

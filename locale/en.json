@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Connections",
+    "description": "SSH servers plus device-to-device control: pair two DeepSeek Harness hosts signed into the same account, or let another paired host control this computer."
+  }
+}
